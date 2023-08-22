@@ -22,4 +22,4 @@ This project can be extended in various ways, such as:
 
 ## Acknowledgments
 
-This project was inspired by the need to make ASL more accessible and inclusive. We thank the creators of the ASL dataset and the supportive machine learning community for providing the tools and resources to make this project possible.
+This project was inspired by the need to make ASL more accessible and inclusive. I thank the creators of the ASL dataset and the supportive machine learning community for providing the tools and resources to make this project possible.
